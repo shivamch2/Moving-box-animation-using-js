@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+.red{
+color:red;
+}
+.yellow{
+  color: yellow;
+}
+</style>
+</head>
+<body>
+<div class="yellow">
+<div class="red"> </div>
+</div>
+
+</body>
+</html>
